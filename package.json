@@ -1,6 +1,6 @@
 {
   "name": "@baaz/babel-preset-baaz",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publishConfig": {
     "access": "public"
   },
@@ -11,9 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dominicg666/babel-preset-baaz"
+    "url": "git+https://github.com/dominicg666/babel-preset-baaz.git"
   },
   "keywords": [
+    "react pwa",
+    "react_pwa",
+    "@react_pwa",
     "react",
     "pwa",
     "babel",
