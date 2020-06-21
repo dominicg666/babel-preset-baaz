@@ -1,5 +1,5 @@
 {
-  "name": "@baaz/babel-preset-baaz",
+  "name": "@baaz/babel-preset-adapter",
   "version": "1.0.4",
   "publishConfig": {
     "access": "public"
