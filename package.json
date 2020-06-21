@@ -1,0 +1,48 @@
+{
+  "name": "@baaz/babel-preset-baaz",
+  "version": "1.0.3",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "Babel configuration common to progressive web projects build with baaz",
+  "main": "index.js",
+  "scripts": {
+    "clean": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominicg666/babel-preset-baaz"
+  },
+  "keywords": [
+    "react",
+    "pwa",
+    "babel",
+    "webpack"
+  ],
+  "author": "Dominic george",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dominicg666/babel-preset-baaz/issues"
+  },
+  "homepage": "https://github.com/dominicg666/babel-preset-baaz#readme",
+  "peerDependencies": {
+    "@babel/core": "~7.3.4",
+    "@babel/plugin-proposal-class-properties": "~7.3.4",
+    "@babel/plugin-proposal-object-rest-spread": "~7.3.4",
+    "@babel/plugin-syntax-dynamic-import": "~7.2.0",
+    "@babel/plugin-syntax-jsx": "~7.2.0",
+    "@babel/plugin-transform-react-jsx": "~7.3.0",
+    "@babel/plugin-transform-runtime": "~7.4.4",
+    "@babel/preset-env": "~7.3.4",
+    "@babel/runtime": "~7.4.2",
+    "babel-plugin-dynamic-import-node": "~2.2.0",
+    "react-hot-loader": "~4.12.17"
+  },
+  "engines": {
+    "node": ">=10.x",
+    "yarn": ">=1.12.0"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
